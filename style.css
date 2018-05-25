@@ -7,3 +7,37 @@ body {
   display: flex;
   border: 5px solid red;
 }
+.leftodio {
+  margin: 20%
+}
+
+.centerodio {
+
+}
+
+.rightodio {
+
+}
+
+wrapper {
+ height: 100px;
+ width: 500px;
+}
+
+
+.controls {
+ display: flex;
+}
+ul li {
+ list-style: none;
+
+
+}
+.download {
+ flex: 10;
+ background-color: green;
+}
+.back {
+ flex: 1;
+ background-color: yellow;
+}
