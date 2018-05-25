@@ -2,6 +2,11 @@ body {
   background-color: gray;
 }
 
-.navbar {
-  float: left;
+.box1 {
+  display: flex;
+  background-color: black;
+}
+
+.centerbox1 {
+
 }
