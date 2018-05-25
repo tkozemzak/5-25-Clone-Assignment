@@ -1,43 +1,65 @@
 body {
-  background-color: ;
-  color: ;
+ background-color: gray;
 }
 
-.odio {
-  display: flex;
-  border: 5px solid red;
-}
-.leftodio {
-  margin: 20%
-}
-
-.centerodio {
-
-}
-
-.rightodio {
-
-}
-
-wrapper {
- height: 100px;
- width: 500px;
-}
-
-
-.controls {
+nav {
  display: flex;
 }
-ul li {
- list-style: none;
 
-
-}
-.download {
- flex: 10;
- background-color: green;
-}
-.back {
+.landed {
  flex: 1;
- background-color: yellow;
+}
+
+.home {
+
+}
+
+.layouts {
+
+}
+
+.elements {
+
+}
+
+.signup {
+
+}
+
+.firstBox {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  border: 5px solid black;
+}
+
+.redbox1 {
+  background-color: red;
+}
+
+.redboximage {
+  width: 100%;
+  height: 300px;
+}
+.odio {
+  display: flex;
+  align-items: center;
+  border-top: 5px solid red;
+}
+
+.blueInterdum {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 5px solid blue;
+}
+
+.blueBox {
+  background-color: blue;
+  flex: 2 0 0;
+}
+
+.interdum1 {
+  background-color: gray;
+  flex: 1 0 0;
 }
