@@ -1,12 +1,9 @@
 body {
-  background-color: gray;
+  background-color: ;
+  color: ;
 }
 
-.box1 {
+.odio {
   display: flex;
-  background-color: black;
-}
-
-.centerbox1 {
-
+  border: 5px solid red;
 }
